@@ -28,6 +28,7 @@ yarn.lock
 
 .env
 
+.yarn
 
 # TV 
 public/charting_library
