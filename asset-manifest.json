@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "http://localhost/public/static/css/main.50036214.chunk.css",
+    "main.js": "http://localhost/public/static/js/main.04cdd1af.chunk.js",
+    "main.js.map": "http://localhost/public/static/js/main.04cdd1af.chunk.js.map",
+    "runtime-main.js": "http://localhost/public/static/js/runtime-main.189377ca.js",
+    "runtime-main.js.map": "http://localhost/public/static/js/runtime-main.189377ca.js.map",
+    "static/js/2.491f7f76.chunk.js": "http://localhost/public/static/js/2.491f7f76.chunk.js",
+    "static/js/2.491f7f76.chunk.js.map": "http://localhost/public/static/js/2.491f7f76.chunk.js.map",
+    "index.html": "http://localhost/public/index.html",
+    "precache-manifest.65b839347ada3acf4c02af1d7c094e90.js": "http://localhost/public/precache-manifest.65b839347ada3acf4c02af1d7c094e90.js",
+    "service-worker.js": "http://localhost/public/service-worker.js",
+    "static/css/main.50036214.chunk.css.map": "http://localhost/public/static/css/main.50036214.chunk.css.map",
+    "static/js/2.491f7f76.chunk.js.LICENSE.txt": "http://localhost/public/static/js/2.491f7f76.chunk.js.LICENSE.txt",
+    "static/media/App.less": "http://localhost/public/static/media/App.187485bb.less",
+    "static/media/logo.svg": "http://localhost/public/static/media/logo.49174c73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.189377ca.js",
+    "static/js/2.491f7f76.chunk.js",
+    "static/css/main.50036214.chunk.css",
+    "static/js/main.04cdd1af.chunk.js"
+  ]
+}
